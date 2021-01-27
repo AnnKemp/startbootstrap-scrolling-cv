@@ -4,9 +4,7 @@
 
 ## Preview
 
-[![Scrolling Nav Preview](https://assets.startbootstrap.com/img/screenshots/templates/scrolling-nav.png)](https://startbootstrap.github.io/startbootstrap-scrolling-nav/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-scrolling-nav/)**
+https://annkemp.github.io/startbootstrap-scrolling-cv/index.html. 
 
 ## Status
 
